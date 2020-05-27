@@ -1,5 +1,7 @@
 # Disassembler Coursework
-This is a simple disassembler written in C along with an additional implementation for MIPS assembly. Part of my coursework at university.
+This is a simple disassembler written in C along with an additional nearly full implementation for MIPS assembly.
+
+Part of my coursework at university. Mark 50/50
 
 ## Description
 The aim of this Assessed Coursework Exercise is to implement & test a disassembler in C. A disassembler is a computer program that translates machine language into assembly language.
